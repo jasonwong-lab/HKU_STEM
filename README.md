@@ -1,5 +1,5 @@
-## HKU STEM 2022
-# HKU STEM Data Science Lab for SARS-CoV2 bioinformatics
+# HKU STEM 2022
+## HKU STEM Data Science Lab for SARS-CoV2 bioinformatics
 
 A jupyter notebook to look at coronavirus species and SARS-CoV2 spike proteins.
 
